@@ -1,0 +1,2 @@
+# Js-Hindi
+self learning
